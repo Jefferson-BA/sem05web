@@ -31,6 +31,78 @@
       "status": "nuevo",
       "priority": "medium",
       "assignedUser": null
+    },
+    {
+      "id": "ac590bc8-fa1d-4f52-96f3-781314d24247",
+      "title": "Defense of the Ancients (DotA) is a pioneering Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "b755022e-995a-4a34-a434-cd3e2d896fd5",
+      "title": "Defense sof the Ancients (DotA) is a pioneering Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "e39b27a8-5e51-43ce-a17f-8016d4efc4f7",
+      "title": "Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "16350a4d-8baa-446d-8b9a-5118406bc8ae",
+      "title": "DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "ceb9544c-7b58-4976-9654-c9f4b939ffba",
+      "title": "DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "c34b5060-8ccb-43df-a5ff-87730f8b8a06",
+      "title": "DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "4f1d1153-0aa7-4a4f-8a24-8e730ce37fbd",
+      "title": "DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "3f455fab-0882-459d-b199-c7e7e9489e7d",
+      "title": "DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "825fb5b6-a879-41e2-bd2d-0018a58dd4a6",
+      "title": "Hola",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
     }
   ],
   "notifications": [
@@ -75,6 +147,69 @@
       "message": "Nuevo ticket creado: Valorant es un shooter táctico en primera persona (FPS) de 5v5, gratuito y basado en personajes",
       "status": "pending",
       "ticketId": "41e638fc-6a97-4512-bb95-c9e8c4bf2c91"
+    },
+    {
+      "id": "d89adae2-f6cb-49c7-9055-2e16d5f814e9",
+      "type": "email",
+      "message": "Nuevo ticket creado: Defense of the Ancients (DotA) is a pioneering Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "ac590bc8-fa1d-4f52-96f3-781314d24247"
+    },
+    {
+      "id": "7e449145-5cb9-49a9-bdd1-8fe627be7cc9",
+      "type": "email",
+      "message": "Nuevo ticket creado: Defense sof the Ancients (DotA) is a pioneering Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "b755022e-995a-4a34-a434-cd3e2d896fd5"
+    },
+    {
+      "id": "ee54cfcd-c7f0-4d38-a553-3ff2bfcc6f4a",
+      "type": "email",
+      "message": "Nuevo ticket creado: Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "e39b27a8-5e51-43ce-a17f-8016d4efc4f7"
+    },
+    {
+      "id": "a635773f-9362-4bd8-aa6e-b14433e4a741",
+      "type": "email",
+      "message": "Nuevo ticket creado: DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "16350a4d-8baa-446d-8b9a-5118406bc8ae"
+    },
+    {
+      "id": "013c239d-01b0-485a-8792-a278cfac28ac",
+      "type": "email",
+      "message": "Nuevo ticket creado: DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "ceb9544c-7b58-4976-9654-c9f4b939ffba"
+    },
+    {
+      "id": "f853b5be-a239-44eb-8d0b-739ace383cff",
+      "type": "email",
+      "message": "Nuevo ticket creado: DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "c34b5060-8ccb-43df-a5ff-87730f8b8a06"
+    },
+    {
+      "id": "69f59bbb-1e26-423b-8403-53c27e1339eb",
+      "type": "email",
+      "message": "Nuevo ticket creado: DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "4f1d1153-0aa7-4a4f-8a24-8e730ce37fbd"
+    },
+    {
+      "id": "3b0032e7-f934-4ab4-b005-98e5fe876b52",
+      "type": "email",
+      "message": "Nuevo ticket creado: DOTA Defense sof the Ancients (DotA) is a pioneerings Multiplayer Online Battle Arena (MOBA) ",
+      "status": "pending",
+      "ticketId": "3f455fab-0882-459d-b199-c7e7e9489e7d"
+    },
+    {
+      "id": "70f4b0a0-f920-40d6-a4cb-2f24fd3bb51c",
+      "type": "email",
+      "message": "Nuevo ticket creado: Hola",
+      "status": "pending",
+      "ticketId": "825fb5b6-a879-41e2-bd2d-0018a58dd4a6"
     }
   ]
 }

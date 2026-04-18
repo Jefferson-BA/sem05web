@@ -19,7 +19,7 @@ class NotificationService {
 
     if (type == "email") {
       this.emailService.sendEmail({
-        to: "Correo_Receptor@tecsup.edu.pe ", 
+        to: "jefferson.ig.ig@gmail.com ", 
         subject: "API RESTful - Alertas del sistema de Tickets", 
         htmlBody: "<h1>" + message +" </h1>" 
       });

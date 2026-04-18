@@ -4,10 +4,11 @@ dotenv.config();
 
 class EmailService {
 
-  constructor() { 
-    
+constructor() { 
     this.transporter = nodemailer.createTransport({
-      service: process.env.MAILER_SERVICE,
+      host: "smtp.gmail.com",
+      port: 587,
+      secure: false, 
       auth: {
         user: process.env.MAILER_EMAIL,
         pass: process.env.MAILER_SECRET_KEY,

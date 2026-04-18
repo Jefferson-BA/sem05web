@@ -1,4 +1,80 @@
 {
-  "tickets": [],
-  "notifications": []
+  "tickets": [
+    {
+      "id": "783b3280-5413-4d75-8377-7a05c680d08a",
+      "title": "Problema de prueba para el correo",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "61d8e0bc-ba82-4ba4-85b8-f85756cecc05",
+      "title": "composición ordenada de signos que forman una unidad de sentido, coherencia y cohesió",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "1117ba01-8f44-4aac-9d04-47a67fc3aad2",
+      "title": "a form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "41e638fc-6a97-4512-bb95-c9e8c4bf2c91",
+      "title": "Valorant es un shooter táctico en primera persona (FPS) de 5v5, gratuito y basado en personajes",
+      "description": "Verificando si llega el email",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    }
+  ],
+  "notifications": [
+    {
+      "id": "90615b88-b980-4669-a190-8428a1b7b28c",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 1",
+      "status": "pending",
+      "ticketId": "5905ddf9-94ce-4b2f-9ee0-c3103b298793"
+    },
+    {
+      "id": "063ce128-fba5-4e1a-9072-e3b43a13069f",
+      "type": "push",
+      "message": "El ticket 5905ddf9-94ce-4b2f-9ee0-c3103b298793 cambió a asignado",
+      "status": "pending",
+      "ticketId": "5905ddf9-94ce-4b2f-9ee0-c3103b298793"
+    },
+    {
+      "id": "15180457-43f1-4766-9769-fa2b79241d11",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema de prueba para el correo",
+      "status": "pending",
+      "ticketId": "783b3280-5413-4d75-8377-7a05c680d08a"
+    },
+    {
+      "id": "7ea8ee08-36e4-4075-902d-d5eef9fed5f0",
+      "type": "email",
+      "message": "Nuevo ticket creado: composición ordenada de signos que forman una unidad de sentido, coherencia y cohesió",
+      "status": "pending",
+      "ticketId": "61d8e0bc-ba82-4ba4-85b8-f85756cecc05"
+    },
+    {
+      "id": "7b259da7-bfd1-41c9-8f62-a41848d207f2",
+      "type": "email",
+      "message": "Nuevo ticket creado: a form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+      "status": "pending",
+      "ticketId": "1117ba01-8f44-4aac-9d04-47a67fc3aad2"
+    },
+    {
+      "id": "c75ebb6e-92fb-44be-81a4-e6878fdceb5f",
+      "type": "email",
+      "message": "Nuevo ticket creado: Valorant es un shooter táctico en primera persona (FPS) de 5v5, gratuito y basado en personajes",
+      "status": "pending",
+      "ticketId": "41e638fc-6a97-4512-bb95-c9e8c4bf2c91"
+    }
+  ]
 }

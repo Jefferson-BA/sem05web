@@ -1,5 +1,7 @@
 const TicketService = require("../services/TicketService");
 const service = new TicketService();
+const NotificationService = require("../services/NotificationService");
+const notificationService = new NotificationService();
 
 exports.create = (req, res) => {
   const ticket = service.createTicket(req.body);
@@ -35,3 +37,16 @@ exports.delete = (req, res) => {
   }
 }
 
+exports.list = (req, res) => {
+  const page = parseInt(req.query.page) || 1;
+  const limit = parseInt(req.query.limit) || 5;
+  
+  const tickets = service.list(page, limit);
+  res.status(200).json(tickets);
+};
+
+exports.getNotificationsByTicket = (req, res) => {
+  const { id } = req.params;
+  const notifications = notificationService.findByTicketId(id);
+  res.status(200).json(notifications);
+};

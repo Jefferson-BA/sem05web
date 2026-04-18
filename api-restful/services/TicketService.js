@@ -51,6 +51,13 @@ class TicketService {
     }
     return true;
   }
+  list(page = 1, limit = 5) {
+    const allTickets = this.repo.findAll();
+    const startIndex = (page - 1) * limit;
+    const endIndex = page * limit;
+    
+    return allTickets.slice(startIndex, endIndex);
+  }
 }
 
 module.exports = TicketService;
